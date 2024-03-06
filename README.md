@@ -1,4 +1,4 @@
-# markdown_skills
+# Markdown_skills
 
 ## Install
 - sudo apt-get install markdown
